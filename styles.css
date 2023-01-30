@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 300px;
+}
+.warning{
+    margin-top: 15px;
+    margin-bottom: 17px;
+}
+.Card{
+    width: 80%;
+}
+.metodo-pago{
+    margin-top: 10px;
+}
+.botton{
+    margin-left: 24px;
+    
+}
+.botones{
+    margin-left: 1160px;
+}
